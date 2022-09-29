@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mensaje>
+    <identificador>
+        <userlogon>
+            <matriz><![CDATA[C08132]]></matriz>
+            <usuario><![CDATA[XML]]></usuario>
+            <password><![CDATA[82449054201596899167155157894]]></password>
+        </userlogon>
+        <formatoInforme>T</formatoInforme>
+        <producto>Experto</producto>
+        <lote>
+            <sectorVeraz>01</sectorVeraz>
+            <sucursalVeraz>0</sucursalVeraz>
+            <cliente>JSERRANO</cliente>
+        </lote>
+    </identificador>
+    <consulta></consulta>
+</mensaje>

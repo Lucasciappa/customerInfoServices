@@ -1,0 +1,10 @@
+body{
+    padding: 5%; font-family: Arial, Helvetica, sans-serif;
+    color: #d5d6d7; background-color: #1e272e;
+}
+input, select, form div{ padding: 4px 8px; color: inherit; }
+input, select, table th{ background-color: #2b3958; text-transform: capitalize; }
+table td{ background-color: #2a333b; } tfoot{ border-top: 2px solid #1e272e; }
+table{ border-collapse: collapse; border: 1px solid #ddd; }
+table td, table th{ padding: 8px 24px; text-align: left; }
+/* table td:nth-child(n+3):nth-child(-n+4){ font-weight: bold;} */

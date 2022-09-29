@@ -1,0 +1,23 @@
+@media screen and (max-width: 960px) {
+    table td, table th{
+        padding: 8px 8px;
+    }
+}
+@media screen and (max-width: 720px) {
+    .labeled thead {
+        clip: rect(0 0 0 0);
+        position: absolute;
+    }
+
+    .labeled td {
+        text-align: right;
+        display: flow-root;
+    }
+
+    .labeled td[data-label]::before {
+        content: attr(data-label) ": ";
+        float: left;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+}

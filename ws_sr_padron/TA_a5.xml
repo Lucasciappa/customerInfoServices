@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>C=ar, O=necxus negocios informaticos s.a., SERIALNUMBER=CUIT 30708477148, CN=servidor.necxus.com.ar</destination>
+        <uniqueId>628389937</uniqueId>
+        <generationTime>2021-06-18T22:26:28.592-03:00</generationTime>
+        <expirationTime>2021-06-19T10:26:28.592-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiB1bmlxdWVfaWQ9IjE1NjQzNDE2OTkiIGdlbl90aW1lPSIxNjI0MDY1OTI4IiBleHBfdGltZT0iMTYyNDEwOTE4OCIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3c19zcl9wYWRyb25fYTUiIHVpZD0iQz1hciwgTz1uZWN4dXMgbmVnb2Npb3MgaW5mb3JtYXRpY29zIHMuYS4sIFNFUklBTE5VTUJFUj1DVUlUIDMwNzA4NDc3MTQ4LCBDTj1zZXJ2aWRvci5uZWN4dXMuY29tLmFyIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMzA3MDg0NzcxNDgiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>dCclbe6+YVbzCWlUUyWT9qswY8bNgAb33h5+DJfBYWeUHOz7NUNbBkKmhaxIVkGBq+McbulHspbGPqbJlI+0qSsA528ZgccaUETtAtSyuGP2zDgfJdTOUJmNcrlN3vab9iKUeNdSX0H8tYMZ3fO/96DsGkAJmYXXU9ge2ZPxnzA=</sign>
+    </credentials>
+</loginTicketResponse>
